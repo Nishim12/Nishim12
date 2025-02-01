@@ -1,8 +1,10 @@
 # Hi, I'm Nishim Singhi! 👋
 
-Welcome to my GitHub profile! Here you'll find details about my work experience and personal projects.
+Welcome to my GitHub profile! Here you'll find details about my work experience and personal projects. 
 
 ## 💼 Work Experience
+<details>
+  <summary>Click to expand</summary>
 
 ### Software Development Engineer Co-op
 **Microchip** | Vancouver, BC | Jan. 2025 – Present  
@@ -16,6 +18,8 @@ Welcome to my GitHub profile! Here you'll find details about my work experience 
 - Developed a responsive events page using React along with SASS, HTML, and Django. This page became the second highest viewed on the website, achieving over 2,000 daily views.
 - Implemented automated cross-browser regression testing with Selenium in Docker, integrating it into a CI/CD pipeline via GitHub Actions to prevent critical bugs from reaching production.
 - Improved website performance by 20%, measured by Google Lighthouse, by reducing the loading time of the website.
+
+</details>
 
 ## 🚀 Personal Projects
 <details>
