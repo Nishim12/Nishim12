@@ -1,6 +1,6 @@
 # Hi, I'm Nishim Singhi! 👋
 
-I'm Nishim Singhi, a Software Development Engineer intern at Microchip and a Full-Stack Web Developer at Ubyssey Publications. My expertise includes Full-
+I'm Nishim Singhi, a Software Development Engineer intern at Microchip and a Full-Stack Web Developer at Ubyssey Publications. My experiences includes Full-
 Stack Web Development, Android App Development, Embedded Programming and Data Analyst. I am always eager to take on new challenges and collaborate on 
 impactful projects.
 
