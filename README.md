@@ -40,7 +40,7 @@ Welcome to my GitHub profile! Here you'll find details about my work experience 
 ### Blackjack Android App Development
 - Developed an interactive Blackjack game for Android using Java and XML, enhancing user engagement.
 - Conducted extensive testing across different device form factors to ensure responsiveness and backward compatibility.
-- **GitHub:** [[Project Link](https://github.com/Nishim12/Blackjack)]
+- **GitHub:** [Project Link](https://github.com/Nishim12/Blackjack)
 
   ### Engineering Placement Prediction
 - Developed an ML model to forecast university student job placements, achieving 88.7% accuracy.
