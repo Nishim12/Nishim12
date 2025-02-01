@@ -3,8 +3,6 @@
 Welcome to my GitHub profile! Here you'll find details about my work experience and personal projects.
 
 ## 💼 Work Experience
-<details>
-  <summary>Click to expand</summary>
 
 ### Full-Stack Web Developer, Demo
 **The Ubyssey Publications Society** | Vancouver, BC | Mar. 2024 – Present  
@@ -18,8 +16,6 @@ Welcome to my GitHub profile! Here you'll find details about my work experience 
 - Developed a reference repository to assist developers at NASA in integrating external libraries compatible with SoC’s Linux OS, streamlining third-party library adoption for spaceflight applications.
 - Automated external library integration by designing a Jenkins pipeline to build library artifacts, developing Bash scripts, and enabling compatibility with an Ubuntu-based Docker container, reducing manual effort and streamlining deployment.
 - Followed Agile methodology with regular sprints and backlog management. Adhered to DevOps practices for CI/CD, ensuring automated builds, testing, and deployments.
-
-</details>
 
 ## 🚀 Personal Projects
 <details>
