@@ -4,18 +4,18 @@ Welcome to my GitHub profile! Here you'll find details about my work experience 
 
 ## 💼 Work Experience
 
+### Software Development Engineer Co-op
+**Microchip** | Vancouver, BC | Jan. 2025 – Present  
+- Developed a reference repository to assist developers at NASA in integrating external libraries compatible with SoC’s Linux OS, streamlining third-party library adoption for spaceflight applications.
+- Automated external library integration by designing a Jenkins pipeline to build library artifacts, developing Bash scripts, and enabling compatibility with an Ubuntu-based Docker container, reducing manual effort and streamlining deployment.
+- Followed Agile methodology with regular sprints and backlog management. Adhered to DevOps practices for CI/CD, ensuring automated builds, testing, and deployments.
+
 ### Full-Stack Web Developer, Demo
 **The Ubyssey Publications Society** | Vancouver, BC | Mar. 2024 – Present  
 - Contributed to developing a Content Management System for Ubyssey, enabling editors to create e-newspapers efficiently as a lead developer. The website is read by 120,000 unique users every month.
 - Developed a responsive events page using React along with SASS, HTML, and Django. This page became the second highest viewed on the website, achieving over 2,000 daily views.
 - Implemented automated cross-browser regression testing with Selenium in Docker, integrating it into a CI/CD pipeline via GitHub Actions to prevent critical bugs from reaching production.
 - Improved website performance by 20%, measured by Google Lighthouse, by reducing the loading time of the website.
-
-### Software Development Engineer Co-op
-**Microchip** | Vancouver, BC | Jan. 2025 – Present  
-- Developed a reference repository to assist developers at NASA in integrating external libraries compatible with SoC’s Linux OS, streamlining third-party library adoption for spaceflight applications.
-- Automated external library integration by designing a Jenkins pipeline to build library artifacts, developing Bash scripts, and enabling compatibility with an Ubuntu-based Docker container, reducing manual effort and streamlining deployment.
-- Followed Agile methodology with regular sprints and backlog management. Adhered to DevOps practices for CI/CD, ensuring automated builds, testing, and deployments.
 
 ## 🚀 Personal Projects
 <details>
